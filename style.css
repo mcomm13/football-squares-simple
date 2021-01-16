@@ -1,0 +1,47 @@
+:root {
+  --team1-color: #d62027;
+  --team2-color: darkcyan;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+.team1-heading {
+  color: var(--team1-color);
+  font-size: 18px;
+}
+
+.team2-heading {
+  color: var(--team2-color);
+  font-size: 18px;
+}
+
+.team1-numbers {
+  background-color: var(--team1-color);
+  color: #ffffff;
+  font-size: 18px;
+  border-right: 1px solid #ffffff;
+  padding: 6px !important;
+}
+
+.team2-numbers {
+  background-color: var(--team2-color);
+  color: #ffffff;
+  font-size: 18px;
+  padding: 6px !important;
+}
+
+.footer-item-divider {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.main-content {
+  border: 4px solid;
+  border-radius: 20px;
+}
