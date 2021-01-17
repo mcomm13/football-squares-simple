@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://football-squares-number-picker.web.app/sitemap.xml
